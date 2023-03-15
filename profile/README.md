@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="[https://uploads-ssl.webflow.com/61702b2bca0865831b666952/61783723d9407a44a1829035_gamma_techschool-logo_yellow.png](https://media.licdn.com/dms/image/C4D0BAQGXcPmYf782UQ/company-logo_200_200/0/1636974535233?e=2147483647&v=beta&t=aULtPSI-mA6cwarXRuxQe--OqNMDxvhZbuSeGtVO7xg)"/>
+  <img src="https://media.licdn.com/dms/image/C4D0BAQGXcPmYf782UQ/company-logo_200_200/0/1636974535233?e=2147483647&v=beta&t=aULtPSI-mA6cwarXRuxQe--OqNMDxvhZbuSeGtVO7xg"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
