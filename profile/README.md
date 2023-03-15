@@ -1,7 +1,5 @@
-## Hi there 👋
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/C4D0BAQGXcPmYf782UQ/company-logo_200_200/0/1636974535233?e=2147483647&v=beta&t=aULtPSI-mA6cwarXRuxQe--OqNMDxvhZbuSeGtVO7xg"/>
-</div>
+## ¡Bienvenidos! 👋 
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
